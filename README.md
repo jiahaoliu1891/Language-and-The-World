@@ -1,3 +1,3 @@
 # Language Grouding Reading List
-[Language Grounding to Vision and Control (CMU)] (https://katefvision.github.io/LanguageGrounding/#readings "Google")
-[link]: http://www.google.com/ "Google"
+1. **A Comprehensive Survey on Graph Neural Networks.**
+*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
