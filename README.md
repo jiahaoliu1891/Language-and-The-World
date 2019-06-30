@@ -1,3 +1,3 @@
 # Language Grouding Reading List
-1. **Language Grounding to Vision and Control**
-[CMU 10-808](https://katefvision.github.io/LanguageGrounding/)
+1. [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/)
+2. [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
