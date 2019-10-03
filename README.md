@@ -9,4 +9,5 @@ Here is a reading list for Language Grounding and some related topics. Although 
 ***
 Some active researcher in this field:
 [Igor Labutov](https://igorlabutov.com) (LAER AI) 
+
 [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
