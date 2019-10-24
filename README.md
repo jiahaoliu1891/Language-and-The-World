@@ -3,6 +3,7 @@
 Nowadays Deep Learning models (such as Bert) have largely promoted the development of Natural Language Processing. The main idea is to learn language model from large corpus. Despite the great success on many different NLP tasks, such as QA, deep learning models still fail to really **understand** what human language is talking about. <br>
 The sementic of human language is hidden beneath words we use to communicate with each other, which is closely related to the real world. Just as the introduction of Knowledge Graph from Google:
 > > "things not strings".
+
 Therefore, models only learn from corpus can never learn understand human language. We must let our deep learning models to learn lanaguage both from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for understanding, which is a small step AGI.
 <br>
 Here is a reading list for Language Grounding and some related topics. Although these works have not draw much attention yet, I believe they are indispensable for AGI.
@@ -17,7 +18,7 @@ Here is a reading list for Language Grounding and some related topics. Although 
 Some active researchers in this field:
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
 * [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
-* [Yoshua Bengio] (MILA)
+* Yoshua Bengio (MILA)
 * [David Traum](http://people.ict.usc.edu/~traum/)(USC)
 
 
