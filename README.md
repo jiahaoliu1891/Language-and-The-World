@@ -4,7 +4,7 @@ Nowadays Deep Learning models (such as Bert) have largely promoted the developme
 The sementic of human language is hidden beneath words we use to communicate with each other, which is closely related to the real world. Just as the introduction of Knowledge Graph from Google:
 > > "things not strings".
 
-Therefore, models only learn from corpus can never learn understand human language. We must let our deep learning models to learn lanaguage both from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for understanding, which is a small step AGI.
+Therefore, models only learn from corpus can never understand human language. We must let our deep learning models to learn lanaguage both from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for understanding, which is a small step AGI.
 <br>
 Here is a reading list for Language Grounding and some related topics. Although these works have not draw much attention yet, I believe they are indispensable for AGI.
 ***
