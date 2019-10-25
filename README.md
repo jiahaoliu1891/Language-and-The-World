@@ -22,7 +22,7 @@ Here is a reading list for Language Grounding and some related topics. Although 
 2. [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
 
 ***
-Some active researchers in this field:
+### Researchers:
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
 * [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
 * Yoshua Bengio (MILA)
