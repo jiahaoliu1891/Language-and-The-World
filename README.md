@@ -10,8 +10,6 @@ The sementic of human language is hidden beneath words we use to communicate wit
 Therefore, models only learn from corpus can never understand human language. We must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards AGI.
 <br>
 
-Here is a reading list for Language Grounding and some related topics. Although these works have not draw much attention yet, I believe they are indispensable for AGI.
-
 ## Papers:
 ### Language Grounding
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
