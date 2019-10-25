@@ -9,6 +9,7 @@ Therefore, models only learn from corpus can never understand human language. We
 Here is a reading list for Language Grounding and some related topics. Although these works have not draw much attention yet, I believe they are indispensable for AGI.
 
 ***
+### Papers
 1. [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/)
 2. [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu) & [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 3. [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
@@ -16,7 +17,7 @@ Here is a reading list for Language Grounding and some related topics. Although 
 5. [**BABYAI: FIRST STEPS TOWARDS GROUNDED LAN- GUAGE LEARNING WITH A HUMAN IN THE LOOP**](https://arxiv.org/pdf/1810.08272.pdf)
 
 ***
-Course
+### Courses
 1. [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 2. [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
 
