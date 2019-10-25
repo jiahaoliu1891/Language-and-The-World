@@ -28,7 +28,7 @@ Therefore, models only learn from corpus can never understand human language. We
 ## Active Researcher:
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
 * [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
-* Yoshua Bengio (MILA)
+* [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/) (MILA)
 * [David Traum](http://people.ict.usc.edu/~traum/)(USC)
 * [Raymond J. Mooney](https://www.cs.utexas.edu/users/mooney/)(UTA)
 
