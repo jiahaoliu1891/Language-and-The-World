@@ -5,7 +5,6 @@ Nowadays Deep Learning models (such as Bert) have largely promoted the developme
 
 The sementic of human language is hidden beneath words we use to communicate with each other, which is closely related to the real world. Just as the introduction of Knowledge Graph from Google:
 
-<br>
 >>"things not strings".
 
 Therefore, models only learn from corpus can never understand human language. We must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards AGI.
