@@ -18,7 +18,6 @@ Here is a reading list for Language Grounding and some related topics. Although 
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
 * [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
 * [**BabyAI: First Steps Towards Grounding Language Learning With A Human In The Loop**](https://arxiv.org/pdf/1810.08272.pdf)
-
 ### Mind
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
