@@ -20,8 +20,10 @@ Therefore, models only learn from corpus can never understand human language. We
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
 ## Courses:
-1. [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
-2. [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
+* [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
+* [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
+* [**Grounded Language for Robotics**](http://www.cs.unc.edu/~mbansal/teaching/robonlp-seminar-spring17.html) 
+
 
 ## Active Researcher:
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
