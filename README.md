@@ -12,7 +12,6 @@ Therefore, models only learn from corpus can never understand human language. We
 
 Here is a reading list for Language Grounding and some related topics. Although these works have not draw much attention yet, I believe they are indispensable for AGI.
 
-***
 ## Papers:
 ### Language Grounding
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
