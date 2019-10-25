@@ -20,5 +20,6 @@ Some active researchers in this field:
 * [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
 * Yoshua Bengio (MILA)
 * [David Traum](http://people.ict.usc.edu/~traum/)(USC)
+* [Raymond J. Mooney](https://www.cs.utexas.edu/users/mooney/)(UTA)
 
 
