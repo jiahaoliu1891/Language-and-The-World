@@ -20,7 +20,7 @@ Here is a reading list for Language Grounding and some related topics. Although 
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
-***
+
 ## Courses:
 1. [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 2. [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
