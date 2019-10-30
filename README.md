@@ -6,7 +6,7 @@ Nowadays Deep Learning models (such as Bert) have largely promoted the developme
 
 In my opinion, people learn language by understanding the world. In human mind, we have a model for language, and also a model for the physical world. Just as the introduction of Knowledge Graph from Google:
 
->>"things not strings".
+>"things not strings".
 
 Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards human-level intelligence.
 
