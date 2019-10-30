@@ -1,21 +1,31 @@
 # Language Grouding for Understanding Human Language
 <br>
 
-Nowadays Deep Learning models (such as Bert) have largely promoted the development of Natural Language Processing. The main idea is to learn language model from large corpus. Despite the great success on many different NLP tasks, such as QA, deep learning models still fail to really **understand** what human is talking about. <br>
+Nowadays Deep Learning models (such as Bert) have largely promoted the development of Natural Language Processing. The main idea is to learn language model from large corpus. Despite the great success on many different NLP tasks, such as QA, deep learning models still fail to really **understand** what human language. The thought experiment ["Chinese Room"](https://en.wikipedia.org/wiki/Chinese_room) tells why.
+<br>
 
-The sementic of human language is hidden beneath words we use to communicate with each other, which is closely related to the real world. Just as the introduction of Knowledge Graph from Google:
+In my opinion, people learn language by understanding the world. In human mind, we have a model for language, and also a model for the physical world. Just as the introduction of Knowledge Graph from Google:
 
 >>"things not strings".
 
-Therefore, models only learn from corpus can never understand human language. We must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. Grounding symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards AGI.
+Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards human-level intelligence.
+
+We **have made** some progress on this direction, e.g.,  Visual Question Answering, Language Grounding for Robotics etc. I **am** really excited about these reasearch.
+Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way.
 <br>
 
 ## Papers:
-### Language Grounding
+### Language Grounding in Game
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
 * [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
 * [**BabyAI: First Steps Towards Grounding Language Learning With A Human In The Loop**](https://arxiv.org/pdf/1810.08272.pdf)
+
+### Multimodal Machine Learning 
+* 
 * [**Grounded Semantic Role Labeling**](https://www.aclweb.org/anthology/N16-1019.pdf)
+
+### Visual Question Answering
+* [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**]()
 
 ### Mind
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
