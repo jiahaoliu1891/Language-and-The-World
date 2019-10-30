@@ -11,21 +11,19 @@ In my opinion, people learn language by understanding the world. In human mind, 
 Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards human-level intelligence.
 
 We **have made** some progress on this direction, e.g.,  Visual Question Answering, Language Grounding for Robotics etc. I **am** really excited about these reasearch.
-Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way.
+Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way. 
 <br>
 
 ## Papers:
 ### Language Grounding in Game
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
-* [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
 * [**BabyAI: First Steps Towards Grounding Language Learning With A Human In The Loop**](https://arxiv.org/pdf/1810.08272.pdf)
+* [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
 
-### Multimodal Machine Learning 
-* 
+### Visual Question Answering / Multimodal ML
 * [**Grounded Semantic Role Labeling**](https://www.aclweb.org/anthology/N16-1019.pdf)
-
-### Visual Question Answering
 * [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**]()
+* [**TVQA+: Spatio-Temporal Grounding for Video Question Answering**](https://arxiv.org/pdf/1904.11574.pdf)
 
 ### Mind
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
@@ -35,7 +33,6 @@ Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 * [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
 * [**Grounded Language for Robotics**](http://www.cs.unc.edu/~mbansal/teaching/robonlp-seminar-spring17.html) 
-
 
 ## Active Researcher:
 * [Mohit Bansal](http://www.cs.unc.edu/~mbansal/prospective-students.html) (UNC)
