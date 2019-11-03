@@ -11,7 +11,7 @@ In my opinion, people learn language by understanding the world. In human mind, 
 Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards human-level intelligence.
 
 We **have made** some progress on this direction, e.g.,  Visual Question Answering, Language Grounding for Robotics etc. I **am** really excited about these reasearch.
-Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way. 
+Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way. (Big Fan of [SAO](https://en.wikipedia.org/wiki/Sword_Art_Online) )
 <br>
 
 ## Papers:
