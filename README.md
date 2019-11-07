@@ -42,6 +42,7 @@ Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.
 * [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/) (Umich)
 * [David Traum](http://people.ict.usc.edu/~traum/)(USC)
 * [Raymond J. Mooney](https://www.cs.utexas.edu/users/mooney/)(UTA)
+* [Yonatan Bisk](https://yonatanbisk.com)(CMU)
 
 
 
