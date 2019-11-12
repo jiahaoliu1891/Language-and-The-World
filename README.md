@@ -10,9 +10,6 @@ In my opinion, people learn language by understanding the world. In human mind, 
 
 Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding (NLU), which is a small step towards human-level intelligence.
 
-We **have made** some progress on this direction, e.g.,  Visual Question Answering, Language Grounding for Robotics etc. I **am** really excited about these reasearch.
-Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.pdf) which tries to ground language in a *Game World*. I believe it is the correct way. (Cause I am a BIG fan of [SAO](https://en.wikipedia.org/wiki/Sword_Art_Online) )
-<br>
 
 ## Papers:
 ### Language Grounding in Game
@@ -29,6 +26,9 @@ Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
+### Compositional and disentangled representations
+* [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+
 ## Courses:
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 * [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
@@ -43,6 +43,7 @@ Also, I wana mention one of them, [**BabyAI**](https://arxiv.org/pdf/1810.08272.
 * [David Traum](http://people.ict.usc.edu/~traum/)(USC)
 * [Raymond J. Mooney](https://www.cs.utexas.edu/users/mooney/)(UTA)
 * [Yonatan Bisk](https://yonatanbisk.com)(CMU)
+* [Marta Garnelo](https://www.martagarnelo.com)(DeepMind)
 
 
 
