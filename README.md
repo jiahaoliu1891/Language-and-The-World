@@ -27,7 +27,7 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 
 ### Cognitive Science
-* [**THE SYMBOL GROUNDING PROBLEM**](THE SYMBOL GROUNDING PROBLEM)
+* [**THE SYMBOL GROUNDING PROBLEM**](https://eprints.soton.ac.uk/250382/1/symgro.pdf)
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
