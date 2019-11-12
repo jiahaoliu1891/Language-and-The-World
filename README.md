@@ -22,12 +22,14 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**]()
 * [**TVQA+: Spatio-Temporal Grounding for Video Question Answering**](https://arxiv.org/pdf/1904.11574.pdf)
 
-### Mind
-* [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
-* [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
 ### Compositional and disentangled representations
 * [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+
+### Cognitive Science
+* [**THE SYMBOL GROUNDING PROBLEM**](THE SYMBOL GROUNDING PROBLEM)
+* [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
+* [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 
 ## Courses:
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
