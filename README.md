@@ -24,9 +24,12 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**TVQA+: Spatio-Temporal Grounding for Video Question Answering**](https://arxiv.org/pdf/1904.11574.pdf)
 
 
-### Neural-Symbolic Methods / Compositional and disentangled representations
-* [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+### Neural-Symbolic Methods
 * [**Towards Deep Symbolic Reinforcement Learning**](https://arxiv.org/pdf/1609.05518.pdf)
+
+
+### Compositional and disentangled representations
+* [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 * [**β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK**](https://pdfs.semanticscholar.org/a902/26c41b79f8b06007609f39f82757073641e2.pdf)
 
 
@@ -35,10 +38,13 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
 * [**Building Machines That Learn and Think Like People**](https://arxiv.org/pdf/1604.00289.pdf)
+
+
 ## Courses:
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 * [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
 * [**Grounded Language for Robotics**](http://www.cs.unc.edu/~mbansal/teaching/robonlp-seminar-spring17.html) 
+
 
 ## Active Researcher:
 * [Mohit Bansal](http://www.cs.unc.edu/~mbansal/prospective-students.html) (UNC)
