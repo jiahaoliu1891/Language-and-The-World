@@ -17,20 +17,23 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**BabyAI: First Steps Towards Grounding Language Learning With A Human In The Loop**](https://arxiv.org/pdf/1810.08272.pdf)
 * [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
 
+
 ### Visual Question Answering / Multimodal ML
 * [**Grounded Semantic Role Labeling**](https://www.aclweb.org/anthology/N16-1019.pdf)
 * [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**]()
 * [**TVQA+: Spatio-Temporal Grounding for Video Question Answering**](https://arxiv.org/pdf/1904.11574.pdf)
 
 
-### Compositional and disentangled representations
+### Neural-Symbolic Methods / Compositional and disentangled representations
 * [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+* [**Towards Deep Symbolic Reinforcement Learning**](https://arxiv.org/pdf/1609.05518.pdf)
+
 
 ### Cognitive Science
 * [**THE SYMBOL GROUNDING PROBLEM**](https://eprints.soton.ac.uk/250382/1/symgro.pdf)
 * [**Modularity of Mind**](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
 * [**Is the mind really modular?**](http://www.subcortex.com/PrinzModularity.pdf)
-
+* [**Building Machines That Learn and Think Like People**](https://arxiv.org/pdf/1604.00289.pdf)
 ## Courses:
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 * [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
