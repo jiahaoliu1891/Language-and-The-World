@@ -27,6 +27,7 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 ### Neural-Symbolic Methods / Compositional and disentangled representations
 * [**Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations**](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 * [**Towards Deep Symbolic Reinforcement Learning**](https://arxiv.org/pdf/1609.05518.pdf)
+* [**β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK**](https://pdfs.semanticscholar.org/a902/26c41b79f8b06007609f39f82757073641e2.pdf)
 
 
 ### Cognitive Science
