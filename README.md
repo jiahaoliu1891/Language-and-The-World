@@ -46,7 +46,12 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 * [**Grounded Language for Robotics**](http://www.cs.unc.edu/~mbansal/teaching/robonlp-seminar-spring17.html) 
 
 
+## Books:
+* [**Metaphors We Live by**]
+
+
 ## Active Researcher:
+* [George Lakoff](https://georgelakoff.com) (UCB)
 * [Mohit Bansal](http://www.cs.unc.edu/~mbansal/prospective-students.html) (UNC)
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
 * [Bishan Yang](http://www.cs.cmu.edu/~bishan/) (LAER AI)
