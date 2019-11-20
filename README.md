@@ -8,7 +8,7 @@ In my opinion, people learn language by understanding the world. In human's mind
 
 >"things not strings".
 
-Therefore, we must let our deep learning models to learn lanaguage from multi-dimensional data: video, audio, etc. **Grounding** symbols into real world objects is a prerequisite for natural language understanding, which is a small step towards human-level intelligence.
+Therefore, learning a language is equivalent to developing a understanding of the world. **Grounding** symbols into real world objects is a prerequisite for natural language understanding, which is a small step towards human-level intelligence.
 
 *Key words*: Symbolic Grounding,  World Model,  Natural Language Grounding, Embodied Learning, Cognitive Linguistic 
 
