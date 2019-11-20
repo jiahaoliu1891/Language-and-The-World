@@ -8,7 +8,7 @@ In my opinion, people learn language by understanding the world. In human's mind
 
 >"things not strings".
 
-Therefore, learning a language is equivalent to developing a understanding of the world. **Grounding** symbols into real world objects is a prerequisite for natural language understanding, which is a small step towards human-level intelligence.
+Generally speaking, learning a language is equivalent to developing a understanding of the world. **Grounding** symbols into real world objects is a prerequisite for natural language understanding, which is a step towards human-level intelligence or say AGI.
 
 *Key words*: Symbolic Grounding,  World Model,  Natural Language Grounding, Embodied Learning, Cognitive Linguistic 
 
