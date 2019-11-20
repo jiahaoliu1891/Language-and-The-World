@@ -47,7 +47,7 @@ Therefore, we must let our deep learning models to learn lanaguage from multi-di
 
 
 ## Books:
-* [**Metaphors We Live by**]
+* **Metaphors We Live by**
 
 
 ## Active Researcher:
