@@ -51,6 +51,9 @@ Generally speaking, learning a language is equivalent to developing a understand
 ## Books:
 * **Metaphors We Live by**
 
+## Workshops:
+* [**Vision Meets Cognition**](https://www.visionmeetscognition.org)
+* [**Continual learning Workshop**](https://sites.google.com/view/continual2018/home)
 
 ## Active Researchers:
 * [George Lakoff](https://georgelakoff.com) (UCB)
