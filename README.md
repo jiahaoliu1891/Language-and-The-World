@@ -63,6 +63,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [Raymond J. Mooney](https://www.cs.utexas.edu/users/mooney/)(UTA)
 * [Yonatan Bisk](https://yonatanbisk.com)(CMU)
 * [Marta Garnelo](https://www.martagarnelo.com)(DeepMind)
+* [Mark B. Ring](https://www.cs.utexas.edu/~ring/)
 
 
 
