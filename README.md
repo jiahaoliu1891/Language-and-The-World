@@ -46,6 +46,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**Language Grounding to Vision and Control**](https://katefvision.github.io/LanguageGrounding/#readings)
 * [**Grounded Natural Language Processing**](https://www.cs.utexas.edu/~mooney/gnlp/)
 * [**Grounded Language for Robotics**](http://www.cs.unc.edu/~mbansal/teaching/robonlp-seminar-spring17.html) 
+* [**乔治·莱考夫认知语言学十讲**](https://www.bilibili.com/video/av33658267/?spm_id_from=333.788.videocard.12)
 
 
 ## Books:
