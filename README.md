@@ -52,7 +52,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 * **Metaphors We Live by**
 
 
-## Active Researcher:
+## Active Researchers:
 * [George Lakoff](https://georgelakoff.com) (UCB)
 * [Mohit Bansal](http://www.cs.unc.edu/~mbansal/prospective-students.html) (UNC)
 * [Igor Labutov](https://igorlabutov.com) (LAER AI) 
