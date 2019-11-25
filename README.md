@@ -56,6 +56,9 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**Vision Meets Cognition**](https://www.visionmeetscognition.org)
 * [**Continual learning Workshop**](https://sites.google.com/view/continual2018/home)
 
+## Media:
+* [**人工智能若想取得突破，需要认知科学和工程学的联姻**](https://www.jiqizhixin.com/articles/2016-05-07-3)
+
 ## Active Researchers:
 * [George Lakoff](https://georgelakoff.com) (UCB)
 * [Mohit Bansal](http://www.cs.unc.edu/~mbansal/prospective-students.html) (UNC)
