@@ -58,7 +58,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 
 ## Web:
 * [**人工智能若想取得突破，需要认知科学和工程学的联姻**](https://www.jiqizhixin.com/articles/2016-05-07-3)
-* [**计算认知科学优质资源**](https://www.yangzhiping.com/info/resources.html)
+* [**计算认知科学优质资源**](https://www.yangzhiping.com/info/resources.html) ***(IMPORTANT!)***
 
 ## Active Researchers:
 * [George Lakoff](https://georgelakoff.com) (UCB)
