@@ -60,6 +60,8 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**人工智能若想取得突破，需要认知科学和工程学的联姻**](https://www.jiqizhixin.com/articles/2016-05-07-3)
 * [**计算认知科学优质资源**](https://www.yangzhiping.com/info/resources.html) ***(IMPORTANT!)***
 * [**Neureality**](https://neu-reality.com)
+* [**Yann LeCun - How does the brain learn so much so quickly?**](https://www.youtube.com/watch?v=cWzi38-vDbE)
+
 
 ## Tutorial
 * [**ICML 2019 Causality**](https://slideslive.com/38917403/causal-inference-and-stable-learning)
