@@ -63,8 +63,11 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**Yann LeCun - How does the brain learn so much so quickly?**](https://www.youtube.com/watch?v=cWzi38-vDbE)
 
 
-## Tutorial
+## Tutorial:
 * [**ICML 2019 Causality**](https://slideslive.com/38917403/causal-inference-and-stable-learning)
+
+## Tasks:
+* [**Continual Learning and Object Recognition, Detection, Segmentation**](https://vlomonaco.github.io/core50/)
 
 ## Active Researchers:
 * [George Lakoff](https://georgelakoff.com) (UCB)
