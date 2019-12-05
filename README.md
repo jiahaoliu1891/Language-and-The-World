@@ -24,6 +24,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**Grounded Semantic Role Labeling**](https://www.aclweb.org/anthology/N16-1019.pdf)
 * [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**]()
 * [**TVQA+: Spatio-Temporal Grounding for Video Question Answering**](https://arxiv.org/pdf/1904.11574.pdf)
+* [**Visual Genome**](https://visualgenome.org)
 
 
 ### Neural-Symbolic Methods
