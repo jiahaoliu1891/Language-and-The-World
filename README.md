@@ -63,6 +63,7 @@ Generally speaking, learning a language is equivalent to developing a understand
 * [**Neureality**](https://neu-reality.com)
 * [**Yann LeCun - How does the brain learn so much so quickly?**](https://www.youtube.com/watch?v=cWzi38-vDbE)
 * [**What is wrong with convolutional neural nets**](https://www.youtube.com/watch?v=rTawFwUvnLE)
+* [**构建AGI的系统神经科学方法 Demis Hassabis**](https://www.bilibili.com/video/av67433567/)
 
 
 ## Tutorial:
