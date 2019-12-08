@@ -12,6 +12,8 @@ Generally speaking, learning a language is equivalent to developing a understand
 
 *Key words*: Symbolic Grounding,  World Model,  Natural Language Grounding, Embodied Learning, Cognitive Linguistic 
 
+![Symbolic Grounding](img/Symbolic-Grounding.png)
+
 
 ## Papers:
 ### Language Grounding in Game
