@@ -16,10 +16,11 @@ Generally speaking, learning a language is equivalent to developing a understand
 
 
 ## Papers:
-### Language Grounding in Game
+### Language Grounding in Virtual World
 * [**Why Build an Assistant in Minecraft?**](https://research.fb.com/publications/why-build-an-assistant-in-minecraft/)
 * [**BabyAI: First Steps Towards Grounding Language Learning With A Human In The Loop**](https://arxiv.org/pdf/1810.08272.pdf)
 * [**A Computational Theory of Grounding in Natural Language Conversation**](https://apps.dtic.mil/dtic/tr/fulltext/u2/a289894.pdf)
+* [**Extending Machine Language Models toward Human-Level Language Understanding**](https://arxiv.org/pdf/1912.05877.pdf)
 
 
 ### Visual Question Answering / Multimodal ML
