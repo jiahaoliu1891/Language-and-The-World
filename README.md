@@ -71,6 +71,8 @@ Generally speaking, learning a language is equivalent to developing a understand
 
 ## Tutorial:
 * [**ICML 2019 Causality**](https://slideslive.com/38917403/causal-inference-and-stable-learning)
+* [**FROM SYSTEM 1 DEEP LEARNING TO SYSTEM 2 DEEP LEARNING**](https://www.youtube.com/watch?v=FtUbMG3rlFs)
+
 
 ## Tasks:
 * [**Continual Learning and Object Recognition, Detection, Segmentation**](https://vlomonaco.github.io/core50/)
